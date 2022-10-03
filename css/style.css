@@ -62,7 +62,7 @@ text-decoration: none ;
     
    
 } 
-.menu:hover{
+.menu:hover {
    color: #2196F3; 
 }
 
@@ -99,6 +99,9 @@ figcaption span {
 color: #757575;
 line-height: 1.8
 letter-spacing: 0.03em;
- font-size: 16px;
+font-size: 16px;
 }
 
+.dane-adresowe:hover {
+   color: #2196F3; 
+}
